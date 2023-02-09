@@ -63,6 +63,7 @@
 }
 /* five section */
 .last-section{
+    margin-top: 100px;
     background-image: url(photo/watch.png);
     background-repeat: no-repeat;
     align-items: center;
