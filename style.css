@@ -4,7 +4,7 @@
 }
 /* first seciton */
 .banner{
-    background-image: url(../img/banner1.png);
+    background-image: url(photo/banner1.png);
     background-size: contain;
     text-align: right;
     margin-right: 100px;
