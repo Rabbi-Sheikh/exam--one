@@ -52,6 +52,23 @@
 }
 
 
+/* four section  */
+
+.container{
+    padding-left:5%;
+    display: inline-block;
+}
+.experiences {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+}
+
 /* footer area */
 
 footer{
