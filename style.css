@@ -4,7 +4,7 @@
 }
 /* first seciton */
 .banner{
-    background-image: url(../first-repo/new-year-new-me/images/banner/banner1.png);
+    background-image: url(../img/banner1.png);
     background-size: contain;
     text-align: right;
     margin-right: 100px;
@@ -55,19 +55,14 @@
 /* four section  */
 
 .container{
-    padding-left:5%;
-    display: inline-block;
+    display: flex;
+  gap: 100px;
+  justify-content: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
-.experiences {
-    padding: 30px;
-    margin: 30px;
-    background-color: rgb(238, 251, 255);
-    border-radius: 20px;
-}
-.experience-item {
-    padding: 10px;
-    border-left: 1px solid rgba(137, 130, 247, .2)
-}
+
+
 
 /* footer area */
 
